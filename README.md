@@ -1,7 +1,7 @@
 # GPS SDR
 
 A cold-start GPS L1 C/A signal detector (Gold-code correlation, Doppler/delay
-search), from the FYS-3000 (Space Mission Design) course project.
+search).
 
 ## Layout
 
