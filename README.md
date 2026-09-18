@@ -12,7 +12,7 @@ search).
 ## Attribution
 
 `goldcodes.py` and `gps_reception.py` are based on the
-[`simple_gps_sdr`](https://github.com/jvierine) project by **Juha Vierinen**
+[`simple_gps_sdr`](https://github.com/jvierine/simple_gps_sdr) project by **Juha Vierinen**
 (GitHub: jvierine), used here with permission. `test_deco.py` is an original
 cold-start detector built on top of it.
 
